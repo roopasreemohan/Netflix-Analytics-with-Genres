@@ -48,7 +48,7 @@ Netflix Themed Dashboard
 
 # Screenshot of the Dashboard
 
-<img width="630" alt="image" src="https://github.com/user-attachments/assets/b9a558c0-1e1c-40a3-8553-a0c9f37d1bcb" />
+<img width="1030" alt="image" src="https://github.com/user-attachments/assets/b9a558c0-1e1c-40a3-8553-a0c9f37d1bcb" />
 
 
 
